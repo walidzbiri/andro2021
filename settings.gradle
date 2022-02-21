@@ -1,0 +1,2 @@
+rootProject.name = "partiel2021"
+include ':app'
